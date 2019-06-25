@@ -261,12 +261,12 @@
 		"basic": [
 			{
 				"key": "password",
-				"value": "FreT*pO&3th8",
+				"value": "",
 				"type": "string"
 			},
 			{
 				"key": "username",
-				"value": "admin",
+				"value": "",
 				"type": "string"
 			}
 		]
